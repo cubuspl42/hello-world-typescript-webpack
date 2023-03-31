@@ -2,6 +2,7 @@
   "name": "hello-world-typescript-webpack",
   "private": true,
   "dependencies": {
+    "@types/node": "^18.15.11",
     "lazy-get-decorator": "^2.2.1",
     "ts-keycode-enum": "^1.0.6"
   },
@@ -9,7 +10,7 @@
     "cross-env": "^7.0.3",
     "source-map-loader": "^4.0.1",
     "ts-loader": "^9.4.2",
-    "typescript": "^5.0.2",
+    "typescript": "^5.0.3",
     "webpack": "^5.77.0",
     "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^4.13.1"
